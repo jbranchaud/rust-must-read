@@ -10,3 +10,4 @@
 
 - [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/), Alexis Beingessner
 - [Rust Borrow and Lifetimes](http://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html), Arthur Liao
+- [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/), Alexis Beingessner

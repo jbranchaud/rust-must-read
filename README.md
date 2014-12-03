@@ -2,8 +2,6 @@
 
 > a collection of must-reads on the Rust programming language
 
----
-
 ### 2014
 
 #### v0.13.0

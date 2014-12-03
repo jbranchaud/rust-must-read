@@ -10,6 +10,10 @@
 - [Rust Borrow and Lifetimes](http://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html), Arthur Liao, 11/30/14
 - [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/), Alexis Beingessner, 11/19/14
 
+## Resources
+
+- [The Rust Guide](http://doc.rust-lang.org/guide.html)
+
 ## License
 
 &copy; 2014 Josh Branchaud

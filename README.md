@@ -8,4 +8,4 @@
 
 #### v0.13.0
 
-- [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
+- [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/), Alexis Beingessner

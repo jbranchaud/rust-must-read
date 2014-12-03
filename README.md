@@ -17,6 +17,8 @@
 - [A 30-Minute Introduction to Rust](http://doc.rust-lang.org/intro.html)
 - [The Rust Reference](http://doc.rust-lang.org/reference.html)
 - [r/rust](http://www.reddit.com/r/rust/)
+- [Rust by Example](http://rustbyexample.com/) (currently neglected and
+  outdated, but in the process of getting some much needed love)
 
 ## License
 

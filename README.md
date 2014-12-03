@@ -13,6 +13,7 @@
 ## Resources
 
 - [The Rust Guide](http://doc.rust-lang.org/guide.html)
+- [The Rust Reference](http://doc.rust-lang.org/reference.html)
 
 ## License
 

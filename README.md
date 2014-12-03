@@ -13,6 +13,7 @@
 ## Resources
 
 - [The Rust Guide](http://doc.rust-lang.org/guide.html)
+- [A 30-Minute Introduction to Rust](http://doc.rust-lang.org/intro.html)
 - [The Rust Reference](http://doc.rust-lang.org/reference.html)
 
 ## License

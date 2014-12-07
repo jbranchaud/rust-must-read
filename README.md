@@ -16,6 +16,7 @@
 - [The Rust Guide](http://doc.rust-lang.org/guide.html)
 - [A 30-Minute Introduction to Rust](http://doc.rust-lang.org/intro.html)
 - [The Rust Reference](http://doc.rust-lang.org/reference.html)
+- [Rust Play Pen](http://play.rust-lang.org/)
 - [r/rust](http://www.reddit.com/r/rust/)
 - [Rust by Example](http://rustbyexample.com/) (currently neglected and
   outdated, but in the process of getting some much needed love)

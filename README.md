@@ -2,6 +2,9 @@
 
 > a collection of must-reads on the Rust programming language
 
+*Rust is quickly changing and evolving, so these resources or organized by
+date and (when possible) by Rust version.*
+
 ### 2014
 
 #### v0.13.0

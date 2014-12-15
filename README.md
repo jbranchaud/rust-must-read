@@ -10,6 +10,7 @@ date and (when possible) by Rust version.*
 #### v0.13.0
 
 - [Diving into concurrency: trying out mutexes and atomics](http://jvns.ca/blog/2014/12/14/fun-with-threads/), Julia Evans, 12/14/14
+- [Using Rust to Make a Safer Interface for Yahoo's Fast MDBM Database](http://erickt.github.io/blog/2014/12/13/rust-and-mdbm/), Erick Tryzelaar, 12/13/14
 - [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/), Alexis Beingessner, 12/01/14
 - [Rust Borrow and Lifetimes](http://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html), Arthur Liao, 11/30/14
 - [Purging Proc](http://smallcultfollowing.com/babysteps/blog/2014/11/26/purging-proc/), Niko Matsakis, 11/26/14

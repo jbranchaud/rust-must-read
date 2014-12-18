@@ -9,6 +9,7 @@ date and (when possible) by Rust version.*
 
 #### v0.13.0
 
+- [Columnarization of Rust](http://www.frankmcsherry.org/columnarization/serialization/rust/2014/12/15/Columnarization-in-Rust.html), Frank McSherry, 12/15/14
 - [Diving into concurrency: trying out mutexes and atomics](http://jvns.ca/blog/2014/12/14/fun-with-threads/), Julia Evans, 12/14/14
 - [Using Rust to Make a Safer Interface for Yahoo's Fast MDBM Database](http://erickt.github.io/blog/2014/12/13/rust-and-mdbm/), Erick Tryzelaar, 12/13/14
 - [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/), Alexis Beingessner, 12/01/14

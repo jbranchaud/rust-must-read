@@ -7,7 +7,10 @@ date and (when possible) by Rust version.*
 
 ### 2015
 
+#### v1.0.0-alpha
+
 - [Getting Started Contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html) (slides), Keegan McAllister, 01/17/15
+- [Announcing Rust 1.0 Alpha](http://blog.rust-lang.org/2015/01/09/Rust-1.0-alpha.html), The Rust Core Team, 01/09/15
 
 ### 2014
 

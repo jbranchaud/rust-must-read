@@ -23,6 +23,10 @@ date and (when possible) by Rust version.*
 - [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/), Alexis Beingessner, 11/19/14
 - [Allocators in Rust](http://smallcultfollowing.com/babysteps/blog/2014/11/14/allocators-in-rust/), Niko Matsakis, 11/14/14
 
+#### unknown
+
+- [A taste of Rust (yum) for C/C++ programmers](http://mainisusuallyafunction.blogspot.com/2014/10/a-taste-of-rust-yum-for-cc-programmers_29.html), Keegan McAllister, 10/29/14
+
 ## Resources
 
 - [The Rust Guide](http://doc.rust-lang.org/guide.html)

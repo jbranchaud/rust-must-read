@@ -35,7 +35,7 @@ date and (when possible) by Rust version.*
 
 ## License
 
-&copy; 2014 Josh Branchaud
+&copy; 2014-2015 Josh Branchaud
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.

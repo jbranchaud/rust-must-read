@@ -5,6 +5,10 @@
 *Rust is quickly changing and evolving, so these resources are organized by
 date and (when possible) by Rust version.*
 
+### 2015
+
+- [Getting Started Contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html) (slides), Keegan McAllister, 01/17/15
+
 ### 2014
 
 #### v0.13.0

@@ -9,6 +9,7 @@ date and (when possible) by Rust version.*
 
 #### v1.0.0-alpha
 
+- [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust), Steve Klabnik, 02/27/15
 - [Explore the Ownership System in Rust](http://nercury.github.io/rust/guide/2015/01/19/ownership.html), Nerijus Arlauskas, 01/19/15
 - [Getting Started Contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html) (slides), Keegan McAllister, 01/17/15
 - [Announcing Rust 1.0 Alpha](http://blog.rust-lang.org/2015/01/09/Rust-1.0-alpha.html), The Rust Core Team, 01/09/15

@@ -7,6 +7,10 @@ date and (when possible) by Rust version.*
 
 ### 2015
 
+#### v1.0.0-beta
+
+- [Error Handling In Rust](http://blog.burntsushi.net/rust-error-handling/), Andrew Gallant, 05/14/15
+
 #### v1.0.0-alpha
 
 - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust), Steve Klabnik, 02/27/15
